@@ -1,5 +1,5 @@
-// let ipUrl = 'http://127.0.0.1:7001/admin/'//本地
-let ipUrl = 'http://47.113.118.154/admin/'//云服务器（线上）
+// let ipUrl = 'http://127.0.0.1:7001/blog/admin/'//本地
+let ipUrl = 'http://139.196.166.200/blog/admin/'//云服务器（线上）
 
 let servPath = {
 
